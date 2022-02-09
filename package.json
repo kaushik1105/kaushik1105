@@ -1,0 +1,19 @@
+{
+  "name": "forgeau",
+  "version": "1.0.0",
+  "description": "The code sample is for Hands-on lab: CS463313 - 90 minutes to build an Autodesk Forge application for project management - AU2020",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Le Uy Vo & Le Hieu Hong Phuc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "forge-apis": "^0.7.3",
+    "multer": "^1.4.2",
+    "stream": "^0.0.2",
+    "streams": "^0.0.7"
+  }
+}
